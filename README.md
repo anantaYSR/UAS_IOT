@@ -1,5 +1,5 @@
 # UAS_IOT
-## MODIS (Mobile Odor Detection And Identification System)
+## Pembuatan Perangkat IoT MODIS (Mobile Odor Detection And Identification System) Sebagai Sistem Pencegahan Pertama Kebocoran Gas
 
 ## Kelompok : 
 1. Ananta Yusra Putra Akmal - 2109106024
