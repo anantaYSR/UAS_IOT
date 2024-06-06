@@ -5,6 +5,10 @@
 1. Ananta Yusra Putra Akmal - 2109106024
 2. Bayu Setiawan - 2109106026
 
+## Latar Belakang 
+Latar Belakang : 
+Projek ini dipilih berdasarkan kebutuhan akan sistem deteksi kebakaran dini yang efektif dan mudah diakses. Kebakaran merupakan salah satu bencana yang dapat menyebabkan kerugian besar baik secara material maupun korban jiwa. Penerapan teknologi modern untuk mendeteksi kebakaran sejak dini menjadi sangat penting untuk meminimalisir risiko dan kerugian yang disebabkan oleh kebakaran. Dengan berkembangnya teknologi IoT (Internet of Things), alat pendeteksi kebakaran yang terhubung ke internet dapat memberikan notifikasi langsung kepada pemilik bangunan atau pihak berwenang sehingga tindakan pencegahan dapat segera dilakukan.
+
 ## Spesifikasi dan alat 
 Sistem yang akan dibangun terdiri dari beberapa komponen utama:
 Sensor Gas (MQ-2): Untuk mendeteksi adanya gas berbahaya yang dapat memicu kebakaran.
